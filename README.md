@@ -5,7 +5,7 @@
 
 ## 捐助
 
-<https://jx3.derzh.com/donate/>
+<https://j3cx.com/donate/>
 
 <a href="https://jx3.derzh.com/donate/">![Donate](https://cdn.jsdelivr.net/gh/tinymins/donate@master/combine.jpg)</a>
 
